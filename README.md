@@ -1,3 +1,3 @@
-# Tabnet Gumble Softmax cVAE
+# InterpreTabNet: Enhancing Interpretability of Tabular Data Using Deep Generative Models and Large Language Models
 
-Official Implementation of the Paper [Tabnet Gumble Softmax cVAE](https://www.overleaf.com/read/tywgybbcjsbs).
+Official Implementation of the Paper [InterpreTabNet](https://www.overleaf.com/read/tywgybbcjsbs).
