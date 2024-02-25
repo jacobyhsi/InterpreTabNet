@@ -4,7 +4,7 @@ Official Implementation of the Paper InterpreTabNet.
 
 ## Usage
 
-Clone this repository and navigate to it in your terminal. Then run InterpreTabNet according to your desired dataset i.e.:
+Clone this repository and navigate to it in your terminal. Run InterpreTabNet according to your desired dataset i.e.:
 
 ```
 python interpretabnet_census.py
