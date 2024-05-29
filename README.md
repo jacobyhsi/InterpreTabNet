@@ -1,4 +1,4 @@
-# InterpreTabNet: Distilling Predictive Signals From Tabular Data
+# InterpreTabNet: Salient Feature Selection for Tabular Data Interpretation
 
 Official Implementation of the Paper InterpreTabNet.
 
