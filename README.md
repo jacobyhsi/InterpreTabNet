@@ -1,4 +1,4 @@
-# InterpreTabNet: Salient Feature Selection for Tabular Data Interpretation
+# InterpreTabNet: Distilling Salient Features for Tabular Data Interpretation
 
 Official Implementation of the Paper InterpreTabNet.
 
