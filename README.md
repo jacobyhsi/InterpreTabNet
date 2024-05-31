@@ -1,4 +1,4 @@
-# InterpreTabNet: Distilling Salient Features for Tabular Data Interpretation
+# InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation
 
 Official Implementation of the Paper InterpreTabNet.
 
