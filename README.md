@@ -4,10 +4,15 @@ Official Implementation of the Paper InterpreTabNet.
 
 ## Usage
 
-Clone this repository and navigate to it in your terminal. Run InterpreTabNet according to your desired dataset i.e. adult dataset:
+Clone this repository and navigate to it in your terminal. Install required Packages and Dependencies as follow.
 
 ```
-python interpretabnet_census.py
+conda create -n interpretabnet python=3.10
+conda activate interpretabnet
 ```
 
-Any missing dependencies can be installed using pip. Once all the dependencies are installed, the scripts should run accordingly.
+```
+pip install -r requirements.txt
+```
+
+It is recommended to use the "interpretabnet.ipynb" file for the most up to date codebase.
