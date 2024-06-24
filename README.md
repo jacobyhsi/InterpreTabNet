@@ -15,4 +15,4 @@ conda activate interpretabnet
 pip install -r requirements.txt
 ```
 
-Next, it is recommended to use the "interpretabnet.ipynb" file for the most up-to-date codebase.
+To run InterpreTabNet with a desired dataset, it is recommended to use the "interpretabnet.ipynb" file for the most up-to-date codebase.
