@@ -1,5 +1,6 @@
 # InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation
 
+Official Implementation of the Paper InterpreTabNet.
 <p align="center">
   <a href="https://arxiv.org/abs/2406.00426">
     <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2406.00426-blue">
@@ -8,8 +9,6 @@
     <img alt="Openreview" src="https://img.shields.io/badge/review-OpenReview-red">
   </a>
 </p>
-
-Official Implementation of the Paper InterpreTabNet.
 
 ## Usage
 
