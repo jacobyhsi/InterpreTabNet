@@ -1,8 +1,8 @@
 # InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation
 
 <p align="center">
-  <a href="[https://arxiv.org/abs/2310.09656](https://arxiv.org/abs/2406.00426)">
-    <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2310.09656-blue">
+  <a href="https://arxiv.org/abs/2406.00426">
+    <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2406.00426-blue">
   </a>
   <a href="https://openreview.net/forum?id=4Ay23yeuz0">
     <img alt="Openreview" src="https://img.shields.io/badge/review-OpenReview-red">
