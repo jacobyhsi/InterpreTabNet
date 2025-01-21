@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="images/interpretabnet.png" alt="Model Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
-  <p><em>Figure 1: The InterpreTabNet Architecture presenting a variational formulation of the TabNet encoder.
+  <p><em>Figure 1: The InterpreTabNet Architecture presenting a variational formulation of the TabNet encoder.</em>
 </div>
 
 ## Usage
