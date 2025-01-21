@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="images/interpretabnet_masks.png" alt="Model Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
-  <p><em>Figure 2: X/Y-axis labels denote the features and test samples for each respective mask at $N_{steps} = 4$ decision steps of the Adult Census Income dataset. \textbf{Left (a)}: Learned masks associated with InterpreTabNet. \textbf{Right (b)}: Learned masks associated with TabNet. \textbf{Bottom (c)}: Stacked InterpreTabNet Feature Masks between subsequent feature masks.</em>
+  <p><em>Figure 2: Left (a): Learned masks associated with InterpreTabNet. Right (b): Learned masks associated with TabNet. Bottom (c): Stacked InterpreTabNet Feature Masks between subsequent feature masks.</em>
 </div>
 
 ## Usage
