@@ -1,6 +1,9 @@
 # InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation
 
 <p align="center">
+  <a href="https://github.com/jacobyhsi/InterpreTabNet/blob/main/LICENSE">
+    <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  </a>
   <a href="https://arxiv.org/abs/2406.00426">
     <img alt="Paper URL" src="https://img.shields.io/badge/arxiv-2406.00426-blue">
   </a>
