@@ -36,3 +36,16 @@ pip install -r requirements.txt
 ```
 
 To run InterpreTabNet with a desired dataset, it is recommended to use the "interpretabnet.ipynb" file for the most up-to-date codebase.
+
+## Citation
+Please consider citing our paper if you find it helpful. Thank you!
+```
+@inproceedings{
+si2024interpretabnet,
+title={InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation},
+author={Jacob Yoke Hong Si and Wendy Yusi Cheng and Michael Cooper and Rahul Krishnan},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
+url={https://openreview.net/forum?id=or8BQ4ohGb}
+}
+```
