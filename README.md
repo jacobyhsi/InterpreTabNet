@@ -40,12 +40,10 @@ To run InterpreTabNet with a desired dataset, it is recommended to use the "inte
 ## Citation
 Please consider citing our paper if you find it helpful. Thank you!
 ```
-@inproceedings{
-si2024interpretabnet,
-title={InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation},
-author={Jacob Yoke Hong Si and Wendy Yusi Cheng and Michael Cooper and Rahul Krishnan},
-booktitle={Forty-first International Conference on Machine Learning},
-year={2024},
-url={https://openreview.net/forum?id=or8BQ4ohGb}
+@article{si2024interpretabnet,
+  title={InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation},
+  author={Si, Jacob and Cheng, Wendy Yusi and Cooper, Michael and Krishnan, Rahul G},
+  journal={arXiv preprint arXiv:2406.00426},
+  year={2024}
 }
 ```
