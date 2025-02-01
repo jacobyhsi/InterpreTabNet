@@ -39,7 +39,7 @@ To run InterpreTabNet with a desired dataset, it is recommended to use the "inte
 
 ## Citation
 Please consider citing our paper if you find it helpful. Thank you!
-```
+```bibtex
 @article{si2024interpretabnet,
   title={InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation},
   author={Si, Jacob and Cheng, Wendy Yusi and Cooper, Michael and Krishnan, Rahul G},
