@@ -1,4 +1,5 @@
 # InterpreTabNet: Distilling Predictive Signals from Tabular Data by Salient Feature Interpretation
+> by [Jacob Si](https://jacobyhsi.github.io/), Wendy Yusi Cheng*, [Michael Cooper](https://michaeljohncooper.com/)*, and [Rahul G. Krishnan](https://www.cs.toronto.edu/~rahulgk/).
 
 <p align="center">
   <a href="https://github.com/jacobyhsi/InterpreTabNet/blob/main/LICENSE">
